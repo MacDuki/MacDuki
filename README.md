@@ -15,4 +15,6 @@ const pWattimo = {
 };
 ```
 
+![MacDuki GitHub stats](https://github-readme-stats.vercel.app/api?username=MacDuki&show_icons=true&theme=react&hide=stars,prs)
+
 
