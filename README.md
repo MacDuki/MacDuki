@@ -11,7 +11,7 @@
 ```javascript
 const pWattimo = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
+    askMeAbout: ["webDev", "tech", "games"],
     technologies: {
         frontEnd: {
             js: ["React", "Next"],
