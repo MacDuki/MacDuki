@@ -26,11 +26,6 @@ const pWattimo = {
 ```
 <div align="center">
     
-![MacDuki GitHub stats](https://github-readme-stats.vercel.app/api?username=MacDuki&show_icons=true&theme=react&hide=stars,prs)
-
-</div>
-<div align="center">
-    
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
