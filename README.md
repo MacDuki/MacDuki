@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Wattimo</h1>
+<h1 align="center">I'm Pedro Wattimo</h1>
 <h3 align="center">🚀 Fullstack developer | Cloud Practitioner AWS ☁️</h3>
 
 # 💻 Tech Stack:
