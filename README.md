@@ -10,8 +10,7 @@
 
 ```javascript
 const pWattimo = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["webDev", "tech", "games"],
+    askMeAbout: ["AI", "Tech", "Games", "Gym"],
     technologies: {
         frontEnd: {
             js: ["React", "Next"],
